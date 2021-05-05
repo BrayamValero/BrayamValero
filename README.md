@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**BrayamValero/BrayamValero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brayam, I was born in Venezuela 🇻🇪 in 1992, I'm currently living in Colombia 🇨🇴
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on All Property Mx
+- 🌱 I’m currently learning Laravel, React.js & Node.js
+- 💬 Ask me about anything
+- 📫 How to reach me: https://brayamvalero.github.io/portfolio/
+- ⚡ Fun fact: I love videogames
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some links:  
+  
+- https://www.linkedin.com/in/brayamvalero/
+- https://twitter.com/BrayamValero
+ 
+[![BrayamValero's github stats](https://github-readme-stats.vercel.app/api?username=BrayamValero&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![BrayamValero's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=BrayamValero&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
