@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Brayam, I was born in Venezuela 🇻🇪 in 1992, I'm currently living in Colombia 🇨🇴
+I'm Brayam, I was born in Venezuela 🇻🇪 in 1992, I'm currently living in Venezuela ve
 
-- 🔭 I’m currently working on All Property Mx
-- 🌱 I’m currently learning Laravel, React.js & Node.js
+- 🔭 I’m currently working on AllProperty
+- 🔎 My tech stack is focused in Laravel, Vue, Nuxt and TypeScript.
+- 🌱 I’m currently learning React.js & Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: https://brayamvalero.github.io/portfolio/
 - ⚡ Fun fact: I love videogames
