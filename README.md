@@ -6,7 +6,7 @@ I'm Brayam, I was born in Venezuela 🇻🇪 in 1992, I'm currently living in Ve
 - 🔎 My tech stack is focused in Laravel, Vue, Nuxt and TypeScript.
 - 🌱 I’m currently learning React.js & Node.js
 - 💬 Ask me about anything
-- 📫 How to reach me: https://brayamvalero.github.io/portfolio/
+- 📫 How to reach me: [Click here](https://brayamvalero.dev/)
 - ⚡ Fun fact: I love videogames
 
 Here are some links:  
